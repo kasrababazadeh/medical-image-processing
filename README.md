@@ -24,7 +24,7 @@ pip install numpy matplotlib scipy scikit-image pydicom ipywidgets
 
 ## Clone the Repository
 ```bash
-git clone https://github.com/your-username/medical-image-denoising.git
+git clone https://github.com/kasrababazadeh/medical-image-processing.git
 cd medical-image-denoising
 ```
 
